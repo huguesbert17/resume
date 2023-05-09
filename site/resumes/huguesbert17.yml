@@ -50,39 +50,65 @@ education:
           - Bullet point
           - Bullet point
 
+    # - certification: Google IT Support Professional
+    #   entity: Coursera
+    #   time: January 2023
+    #   details: |
+    #     Eight-month IT support program developed by Google that covers troubleshooting, customer service, 
+    #     networking, operating systems, system administration and security.
+
+    # - certification: Front-End Application Development with React
+    #   entity: edX
+    #   time: January 2023
+    #   details: |
+    #     A course offered by IBM that covers advanced development concepts with React.
+
+    # - certification: Introduction to Front-End Development
+    #   entity: Coursera
+    #   time: January 2023
+    #   details: |
+    #     Course offered by Meta that covers basic concepts of web development with React.
+      
+
 experiences:
-    - role: Web developer
+    - role: Web developer | Dev Ops
       time: November 2019 - Present
       company: Vighor LLC, Santa Fe, NM
       details: |
 
-          - Manage servers on Google Cloud Plateform and AWS
+          - Manage servers on Google Cloud Plateform, AWS, testing and setting up complex configurations
           - Create web applications
           - Help Desk
+          - Create WHMCS and WordPress pluging
 
     - role: Web developer
       time: 2017 - 2020
       company: University Of State Of Haiti, Haiti
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Implement and use micro-services architecture
+          - Develop and consume REST APIs
+          - Ensure high performance of Front-end / Back-end experiences
+          - Prepare the technical specifications
+          - Develop websites and applications
+          - Developed workflows and processes for HelpDesk technicians
+
+    - role: Programmer
+      time: 2014 - 2017
+      company: Terminal Of Technology, Haiti
+      details: |
+
+          - Develop websites and web app using PHP
+          - Develop software with C# and Visual Basic
 
 projects:
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Most of my projects are private on GitHub. Now I'm working on a school management system that uses PHP as BackEnd and React as FrontEnd.
 
-    assignments:
-      - title: Lorem.
-        link: "#hook"
-        tagline: "Lorem ipsum."
+    #assignments:
+     # - title: Lorem.
+      #  link: "#hook"
+       # tagline: "Lorem ipsum."
 
 skills:
     toolset:
@@ -105,4 +131,10 @@ skills:
         level: 92%
 
       - name: WordPress
+        level: 90%
+
+      - name: C#
+        level: 70%
+
+      - name: Figma
         level: 90%
