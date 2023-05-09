@@ -1,0 +1,108 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+    # Profile information
+    first_name: Hugues Ebert
+    last_name: Mertilus
+    motto: I'm creating web app to solve problems and help others to understand how coding can change things
+    avatar:
+    summary: |
+      I am learning a lot!
+
+    # Sidebar links
+    email: hugues@vighor.com
+    phone: 786 203-2824
+    website: http://vighor.com
+    linkedin: https://www.linkedin.com/in/huguebert17/
+    github: huguesbert17
+    twitter: '@huguebert17'
+    stack-overflow: 6373675/hugues
+
+    languages:
+      - idiom: French
+        level: Native
+
+      - idiom: Haitian Creole
+        level: Native
+
+      - idiom: English
+        level: Fluent
+
+    interests:
+      - item: Coding
+
+      - item: Electronic
+
+      - item: Mechanic
+
+education:
+    - degree: BSc in Computer Engineering
+      university: University Of State Of Haiti
+      time: 2012 - 2017
+      details: |
+        I earned skills in project management, coding, computer repair
+
+          - Bullet point
+          - Bullet point
+
+experiences:
+    - role: Web developer
+      time: November 2019 - Present
+      company: Vighor LLC, Santa Fe, NM
+      details: |
+
+          - Manage servers on Google Cloud Plateform and AWS
+          - Create web applications
+          - Help Desk
+
+    - role: Web developer
+      time: 2017 - 2020
+      company: University Of State Of Haiti, Haiti
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+projects:
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Lorem.
+        link: "#hook"
+        tagline: "Lorem ipsum."
+
+skills:
+    toolset:
+      - name: HTML5
+        level: 98%
+
+      - name: CSS3
+        level: 98%
+
+      - name: JavaScript
+        level: 98%
+
+      - name: React
+        level: 98%
+
+      - name: PHP
+        level: 98%
+
+      - name: Laravel
+        level: 92%
+
+      - name: WordPress
+        level: 90%
